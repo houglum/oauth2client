@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## v4.1.3
+
+* Changed OAuth2 endpoints to use oauth2.googleapis.com variants. (#742)
+
 ## v4.1.2
 
 **Note**: oauth2client is deprecated. No more features will be added to the
